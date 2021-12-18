@@ -1,0 +1,7 @@
+صدى "# Yamano2021" >> README.md 
+git init init 
+add README.md 
+git الالتزام -m "الالتزام الأول" git 
+Branch -M main 
+git remote add origin https://github.com/Yamano2021/Yamano2021.git
+ git push - ش الرئيسي الأصل
